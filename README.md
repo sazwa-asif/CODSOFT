@@ -23,6 +23,8 @@ This To-Do List application is a graphical user interface (GUI) built using the 
   * Ensure you have Python installed, along with the Tkinter library.
   * Run the script (todolist.py) to launch the application.
   * Interact with the GUI to add, delete, mark tasks as done, and save the task list.
+    
+<img width="341" alt="todolist" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/a0de8726-61d9-42ad-8421-6dc58a7f628d">
 
 # Contact Book Application
 This Contact Book application is a graphical user interface (GUI) developed using Python's Tkinter library. It enables users to manage their contacts efficiently.
@@ -42,6 +44,9 @@ This Contact Book application is a graphical user interface (GUI) developed usin
   * Run the script (contactbook.py) to launch the application.
   * Interact with the GUI to add, delete, search, and update contacts.
 
+  <img width="451" alt="contactbook" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/c3e30964-59d7-4067-a0b9-8727f810a94a">
+
+
 # Calculator Application
 This Calculator application is a graphical user interface (GUI) implemented in Python using the Tkinter library. It provides users with basic arithmetic operations and ensures a smooth user experience.
 
@@ -58,6 +63,8 @@ This Calculator application is a graphical user interface (GUI) implemented in P
  *  Ensure you have Python installed, along with the Tkinter library.
   * Run the script (calculator.py) to launch the application.
   * Input numerical values and perform arithmetic operations using the buttons provided.
+    
+<img width="265" alt="calculator" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/cf0aa42b-a98f-4ae2-ae8d-c7f053386fa1">
 
 # Password Generator Application
 This Password Generator application is a graphical user interface (GUI) developed using Python's Tkinter library. It allows users to generate strong and secure passwords with customizable parameters.
@@ -76,3 +83,5 @@ This Password Generator application is a graphical user interface (GUI) develope
   * Run the script (passwordgenerator.py) to launch the application.
   * Specify the desired length of the password and choose whether to include special characters.
   * Click the "Generate Password" button to generate a new password.
+
+<img width="380" alt="passwordgenerator" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/eab476d2-b117-4581-8a68-99ec5f84a51c">
