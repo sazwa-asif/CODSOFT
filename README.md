@@ -1,1 +1,78 @@
 # CODSOFT
+This repository is for my four weeks intership at CodSoft as a python intern which includes the following five projects:
+* To-Do-List
+* Calculator
+* Password generator
+* Rock Paper Scissor Game
+* Contact book
+
+# To-Do List Application
+This To-Do List application is a graphical user interface (GUI) built using the Tkinter library in Python. It provides users with a simple yet effective way to manage their tasks.
+
+* FEATURES:
+  * Add Task: Users can input new tasks and add them to the list.
+  *  Delete Task: Tasks can be removed from the list by selecting them and clicking the "DELETE TASK" button.
+  *  Mark as Done: Tasks can be marked as completed by selecting them and clicking the "MARK AS DONE" button, which prefixes a checkmark symbol to the task.
+  * Save List: Users can save their current task list to a text file named "to_do_list.txt" for future reference.
+* Key Components:
+  * Graphical Interface: The GUI features a visually appealing layout with a prominent title, a list box to display tasks, and entry fields for adding new tasks.
+  * Feedback Messages: The application provides informative messages to users, such as warnings for empty task entries and notifications for successful actions like saving the list.
+  * Scrollbar: A scrollbar is included to facilitate navigation through the task list, ensuring usability even with a large number of tasks.
+* Usage:
+  * Clone the repository to your local machine.
+  * Ensure you have Python installed, along with the Tkinter library.
+  * Run the script (todolist.py) to launch the application.
+  * Interact with the GUI to add, delete, mark tasks as done, and save the task list.
+
+# Contact Book Application
+This Contact Book application is a graphical user interface (GUI) developed using Python's Tkinter library. It enables users to manage their contacts efficiently.
+
+* Features:
+  * Add Contact: Users can input a contact's name and number and add them to the contact list.
+  * Delete Contact: Contacts can be removed from the list with a simple click.
+  * Search Contact: Users can search for a contact by name and view their details.
+  * Update Contact: Contacts' information can be updated easily.
+* Key Components:
+  * Graphical Interface: The GUI features an intuitive layout with entry fields for name and contact, along with buttons for adding, deleting, searching, and updating 
+  * contacts.
+  * Feedback Messages: The application provides informative messages to users, such as alerts for errors and notifications for successful actions.
+* Usage:
+  * Clone the repository to your local machine.
+  * Ensure you have Python installed, along with the Tkinter library.
+  * Run the script (contactbook.py) to launch the application.
+  * Interact with the GUI to add, delete, search, and update contacts.
+
+# Calculator Application
+This Calculator application is a graphical user interface (GUI) implemented in Python using the Tkinter library. It provides users with basic arithmetic operations and ensures a smooth user experience.
+
+* Features:
+  * Numeric Input: Users can input numerical values and perform arithmetic operations.
+  * Error Handling: The application provides error messages for invalid inputs, ensuring smooth operation.
+  * Clear Function: Users can clear the input field with a single click.
+* Key Components:
+  * Graphical Interface: The GUI features a clean layout with large buttons for numbers and operators, ensuring ease of use.
+  * Input Field: The input field displays the expression entered by the user and the result of calculations.
+  * Feedback Messages: Error messages are displayed for invalid inputs or calculations, enhancing user understanding.
+* Usage:
+ * Clone the repository to your local machine.
+ *  Ensure you have Python installed, along with the Tkinter library.
+  * Run the script (calculator.py) to launch the application.
+  * Input numerical values and perform arithmetic operations using the buttons provided.
+
+# Password Generator Application
+This Password Generator application is a graphical user interface (GUI) developed using Python's Tkinter library. It allows users to generate strong and secure passwords with customizable parameters.
+
+* Features:
+  * Customizable Length: Users can specify the length of the generated password.
+  * Include Special Characters: Users have the option to include special characters in the generated password for added security.
+  * Password Display: The generated password is displayed to the user for easy copying and use.
+* Key Components:
+  * Graphical Interface: The GUI features an intuitive layout with input fields for password length and a checkbox for including special characters.
+  * Generate Button: Users can click the "Generate Password" button to generate a new password based on their specified parameters.
+  * Password Display Field: The generated password is displayed in a text field, allowing users to easily view and copy it.
+* Usage:
+  * Clone the repository to your local machine.
+  * Ensure you have Python installed, along with the Tkinter library.
+  * Run the script (passwordgenerator.py) to launch the application.
+  * Specify the desired length of the password and choose whether to include special characters.
+  * Click the "Generate Password" button to generate a new password.
