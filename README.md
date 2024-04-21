@@ -85,3 +85,33 @@ This Password Generator application is a graphical user interface (GUI) develope
   * Click the "Generate Password" button to generate a new password.
 
 <img width="380" alt="passwordgenerator" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/eab476d2-b117-4581-8a68-99ec5f84a51c">
+
+# Rock Paper Scissors Game
+This project implements a classic Rock Paper Scissors game using Python's Tkinter library for the graphical user interface (GUI). The game allows players to compete against each other by selecting one of three options: rock, paper, or scissors. The program then determines the winner based on the traditional rules of the game.
+
+* Features
+  * Interactive GUI: Utilizes Tkinter to create an engaging and user-friendly graphical interface for the game.
+  * Player Names: Players can enter their names, which are displayed alongside their respective scores during gameplay.
+  * Score Tracking: Keeps track of the scores for both players throughout the game.
+  * Randomized Computer Choices: The computer opponent selects its move randomly, providing a challenge for the player.
+  * Win/Loss Messages: Displays appropriate messages indicating whether the player wins, loses, or ties with the computer's choice.
+*Key Components
+  * Tkinter GUI: Utilizes Tkinter to create an interactive and visually appealing interface for the game.
+  * Player Input: Allows players to input their names, enhancing the personalized experience.
+  * Score Tracking: Dynamically displays player scores, updating them with each round.
+  * Randomized Computer Choices: Implements random selection for the computer opponent's moves, providing variability and challenge.
+  * Win/Loss Messages: Provides clear feedback to players on game outcomes, enhancing the gaming experience.
+  * Modular Design: Organizes the code into separate functions for improved readability and maintainability.
+  * Button Controls: Utilizes clickable buttons for player move selection, enhancing user interaction.
+* Usage
+  * Clone the repository to your local machine.
+  * Ensure Python is installed on your system.
+  * Run the rockpaperscissors.py file to launch the game.
+  * Enter the names of the players in the designated fields.
+  * Click the "CLICK HERE TO PLAY" button to start the game.
+  * Select your move (rock, paper, or scissors) by clicking the corresponding button.
+  * The computer opponent will make its move, and the winner will be determined.
+  * Continue playing rounds until one player achieves the desired score.
+
+    
+<img width="823" alt="rockpaperscissor" src="https://github.com/sazwa-asif/CODSOFT/assets/167634893/fa87e4a4-2492-46f2-ace0-4e7989c67e79">
