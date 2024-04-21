@@ -95,7 +95,7 @@ This project implements a classic Rock Paper Scissors game using Python's Tkinte
   * Score Tracking: Keeps track of the scores for both players throughout the game.
   * Randomized Computer Choices: The computer opponent selects its move randomly, providing a challenge for the player.
   * Win/Loss Messages: Displays appropriate messages indicating whether the player wins, loses, or ties with the computer's choice.
-*Key Components
+* Key Components
   * Tkinter GUI: Utilizes Tkinter to create an interactive and visually appealing interface for the game.
   * Player Input: Allows players to input their names, enhancing the personalized experience.
   * Score Tracking: Dynamically displays player scores, updating them with each round.
